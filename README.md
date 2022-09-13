@@ -1,7 +1,7 @@
 
 ### Like Counter App
 
-- Like Counter App Using HTML, SCSS & React.
+- Like Counter App Using HTML, SCSS & React
 
 ![react-like-counter](/like-counter.png)
 
