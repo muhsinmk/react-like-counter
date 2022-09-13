@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "user": "John Doe",
+    "image": "https://picsum.photos/id/200/600/400",
+    "likes": 3
+  },
+  {
+    "id": 102,
+    "user": "Clark Kent",
+    "image": "https://picsum.photos/id/230/600/400",
+    "likes": 5
+  },
+  {
+    "id": 103,
+    "user": "Bruce Banner",
+    "image": "https://picsum.photos/id/260/600/400",
+    "likes": 12
+  }
+]
