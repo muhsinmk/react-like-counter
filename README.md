@@ -1,3 +1,14 @@
+
+### Like Counter App
+
+- Like Counter App Using HTML, SCSS & React.
+
+![react-like-counter](/like-counter.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
